@@ -75,6 +75,3 @@ This combination of technologies ensures that Twinkle is both a fun and educatio
 - Tailwind CSS
 - Three.js
 
-## Try it out
-- [Live Demo](https://cursorhack-twinkle.vercel.app)
-- [GitHub Repo](https://github.com/wwaiyyee/twinkle)
